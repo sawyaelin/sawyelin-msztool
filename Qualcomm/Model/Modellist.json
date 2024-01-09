@@ -2,7 +2,7 @@
   "models": [
     {
       "name": "Redmi Note8 (Ginkgo)",
-      "filePath": "RedmiNote8_ginkgo"
+      "filePath": "Qualcomm/Loader/RedmiNote8_ginkgo"
     },
     {
       "name": "RedmiNote7 (lavender)",
