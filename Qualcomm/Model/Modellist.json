@@ -2,12 +2,12 @@
   "models": [
     {
       "name": "Redmi Note8 (Ginkgo)",
-      "filePath": "Qualcomm/Loader/Redmi Note8 (Ginkgo).mbn"
+      "filePath": "Qualcomm/Loader/Redmi_Note8_(Ginkgo).mbn"
     },
     {
       "name": "RedmiNote7 (lavender)",
       "filePath": "Qualcomm/Loader/RedmiNote7_lavender"
-    },
+    }
     // Add more models as needed
   ]
 }
