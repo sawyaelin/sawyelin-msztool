@@ -1,13 +1,24 @@
-{
-  "models": [
-    {
-      "name": "Redmi Note8 (Ginkgo)",
-      "filePath": "Qualcomm/Loader/Redmi_Note8_(Ginkgo).mbn"
-    },
-    {
-      "name": "RedmiNote7 (lavender)",
-      "filePath": "Qualcomm/Loader/RedmiNote7_lavender"
-    }
-    // Add more models as needed
-  ]
-}
+[
+  {
+    "Devices": "Redmi Note 8",
+    "Models": "Ginkgo",
+    "Auth": true,
+    "CPU": "SDM665",
+    "Loader": "Redmi_Note8_(Ginkgo).mbn.mbn"
+  },
+  {
+    "Devices": "Redmi Note 7",
+    "Models": "Lavender",
+    "Auth": true,
+    "CPU": "SDM660",
+    "Loader": "RedmiNote7 (lavender).elf"
+  },
+  {
+    "Devices": "iPhone 12",
+    "Models": "A14 Bionic",
+    "Auth": true,
+    "CPU": "A14 Bionic",
+    "Loader": "A14Loader.elf"
+  }
+ 
+]
